@@ -1,3 +1,3 @@
 takenaka	武中
 matsumoto	松本優花
-sudo	須藤
+sudo	須藤	変更
